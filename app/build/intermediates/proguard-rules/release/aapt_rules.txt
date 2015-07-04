@@ -1,0 +1,50 @@
+# view res/layout/activity_main.xml #generated:1
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view res/layout/fragment_inbox.xml #generated:7
+-keep class android.support.v4.widget.SwipeRefreshLayout { <init>(...); }
+
+gytt-keep class com.facebook.FacebookActivity { <init>(...); }
+
+# view res/layout/user_item.xml #generated:8
+-keep class com.facebook.login.widget.ProfilePictureView { <init>(...); }
+
+# view AndroidManifest.xml #generated:125
+-keep class com.parse.GcmBroadcastReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:110
+-keep class com.parse.ParseBroadcastReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:116
+-keep class com.parse.ParsePushBroadcastReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:108
+-keep class com.parse.PushService { <init>(...); }
+
+# view AndroidManifest.xml #generated:68
+-keep class com.rahul.vanished.EditFriendsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:57
+-keep class com.rahul.vanished.LoginActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:95
+-keep class com.rahul.vanished.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:77
+-keep class com.rahul.vanished.RecepientsActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:62
+-keep class com.rahul.vanished.SignUpActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:45
+-keep class com.rahul.vanished.SplashScreen { <init>(...); }
+
+# view AndroidManifest.xml #generated:39
+-keep class com.rahul.vanished.VanishedApplication { <init>(...); }
+
+# view AndroidManifest.xml #generated:86
+-keep class com.rahul.vanished.ViewImageActivity { <init>(...); }
+
+# onClick res/layout/activity_login.xml #generated:117
+-keepclassmembers class * { *** onLoginClick(...); }
+

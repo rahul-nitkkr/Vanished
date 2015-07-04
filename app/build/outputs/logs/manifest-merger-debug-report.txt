@@ -1,0 +1,255 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
+	package
+		ADDED from AndroidManifest.xml:3:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		ADDED from AndroidManifest.xml:5:5
+	android:versionCode
+		ADDED from AndroidManifest.xml:4:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+uses-sdk
+ADDED from AndroidManifest.xml:7:5
+MERGED from com.android.support:support-v4:22.0.0:20:5
+MERGED from com.facebook.android:facebook-android-sdk:4.1.2:24:5
+MERGED from com.android.support:support-v4:22.0.0:20:5
+	android:targetSdkVersion
+		ADDED from AndroidManifest.xml:9:9
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:8:9
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+uses-permission#android.permission.INTERNET
+ADDED from AndroidManifest.xml:11:5
+	android:name
+		ADDED from AndroidManifest.xml:11:22
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from AndroidManifest.xml:12:5
+	android:name
+		ADDED from AndroidManifest.xml:12:22
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from AndroidManifest.xml:13:5
+	android:name
+		ADDED from AndroidManifest.xml:13:22
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from AndroidManifest.xml:14:5
+	android:name
+		ADDED from AndroidManifest.xml:14:22
+uses-permission#android.permission.WAKE_LOCK
+ADDED from AndroidManifest.xml:15:5
+	android:name
+		ADDED from AndroidManifest.xml:15:22
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from AndroidManifest.xml:16:5
+	android:name
+		ADDED from AndroidManifest.xml:16:22
+uses-permission#android.permission.VIBRATE
+ADDED from AndroidManifest.xml:17:5
+	android:name
+		ADDED from AndroidManifest.xml:17:22
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from AndroidManifest.xml:18:5
+	android:name
+		ADDED from AndroidManifest.xml:18:22
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from AndroidManifest.xml:19:5
+	android:name
+		ADDED from AndroidManifest.xml:19:22
+permission#com.rahul.vanished.permission.C2D_MESSAGE
+ADDED from AndroidManifest.xml:25:5
+	android:protectionLevel
+		ADDED from AndroidManifest.xml:25:17
+	android:name
+		ADDED from AndroidManifest.xml:26:17
+uses-permission#com.rahul.vanished.permission.C2D_MESSAGE
+ADDED from AndroidManifest.xml:27:5
+	android:name
+		ADDED from AndroidManifest.xml:27:22
+uses-feature#android.hardware.Camera
+ADDED from AndroidManifest.xml:29:5
+	android:required
+		ADDED from AndroidManifest.xml:31:9
+	android:name
+		ADDED from AndroidManifest.xml:30:9
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from AndroidManifest.xml:33:5
+	android:maxSdkVersion
+		ADDED from AndroidManifest.xml:35:9
+	android:name
+		ADDED from AndroidManifest.xml:34:9
+application
+ADDED from AndroidManifest.xml:37:5
+MERGED from com.android.support:support-v4:22.0.0:22:5
+MERGED from com.facebook.android:facebook-android-sdk:4.1.2:28:5
+MERGED from com.android.support:support-v4:22.0.0:22:5
+	android:label
+		ADDED from AndroidManifest.xml:41:9
+	android:allowBackup
+		ADDED from AndroidManifest.xml:39:9
+	android:icon
+		ADDED from AndroidManifest.xml:40:9
+	android:theme
+		ADDED from AndroidManifest.xml:42:9
+	android:name
+		ADDED from AndroidManifest.xml:38:9
+activity#com.rahul.vanished.SplashScreen
+ADDED from AndroidManifest.xml:43:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:48:13
+	android:label
+		ADDED from AndroidManifest.xml:46:13
+	android:configChanges
+		ADDED from AndroidManifest.xml:45:13
+	android:theme
+		ADDED from AndroidManifest.xml:47:13
+	android:name
+		ADDED from AndroidManifest.xml:44:13
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:50:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:51:17
+	android:name
+		ADDED from AndroidManifest.xml:51:25
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:53:17
+	android:name
+		ADDED from AndroidManifest.xml:53:27
+activity#com.rahul.vanished.LoginActivity
+ADDED from AndroidManifest.xml:56:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:59:13
+	android:label
+		ADDED from AndroidManifest.xml:58:13
+	android:name
+		ADDED from AndroidManifest.xml:57:13
+activity#com.rahul.vanished.SignUpActivity
+ADDED from AndroidManifest.xml:61:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:65:13
+	android:label
+		ADDED from AndroidManifest.xml:63:13
+	android:parentActivityName
+		ADDED from AndroidManifest.xml:64:13
+	android:name
+		ADDED from AndroidManifest.xml:62:13
+activity#com.rahul.vanished.EditFriendsActivity
+ADDED from AndroidManifest.xml:67:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:71:13
+	android:label
+		ADDED from AndroidManifest.xml:69:13
+	android:parentActivityName
+		ADDED from AndroidManifest.xml:70:13
+	android:name
+		ADDED from AndroidManifest.xml:68:13
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from AndroidManifest.xml:72:13
+	android:name
+		ADDED from AndroidManifest.xml:73:17
+	android:value
+		ADDED from AndroidManifest.xml:74:17
+activity#com.rahul.vanished.RecepientsActivity
+ADDED from AndroidManifest.xml:76:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:80:13
+	android:label
+		ADDED from AndroidManifest.xml:78:13
+	android:parentActivityName
+		ADDED from AndroidManifest.xml:79:13
+	android:name
+		ADDED from AndroidManifest.xml:77:13
+activity#com.rahul.vanished.ViewImageActivity
+ADDED from AndroidManifest.xml:85:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:89:13
+	android:label
+		ADDED from AndroidManifest.xml:87:13
+	android:parentActivityName
+		ADDED from AndroidManifest.xml:88:13
+	android:name
+		ADDED from AndroidManifest.xml:86:13
+activity#com.rahul.vanished.MainActivity
+ADDED from AndroidManifest.xml:94:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:97:13
+	android:label
+		ADDED from AndroidManifest.xml:96:13
+	android:name
+		ADDED from AndroidManifest.xml:95:13
+activity#com.facebook.FacebookActivity
+ADDED from AndroidManifest.xml:100:9
+	android:theme
+		ADDED from AndroidManifest.xml:101:19
+	android:name
+		ADDED from AndroidManifest.xml:100:19
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from AndroidManifest.xml:102:9
+	android:name
+		ADDED from AndroidManifest.xml:102:20
+	android:value
+		ADDED from AndroidManifest.xml:103:20
+service#com.parse.PushService
+ADDED from AndroidManifest.xml:106:9
+	android:name
+		ADDED from AndroidManifest.xml:106:18
+receiver#com.parse.ParseBroadcastReceiver
+ADDED from AndroidManifest.xml:107:9
+	android:name
+		ADDED from AndroidManifest.xml:107:19
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.USER_PRESENT
+ADDED from AndroidManifest.xml:108:13
+action#android.intent.action.BOOT_COMPLETED
+ADDED from AndroidManifest.xml:109:17
+	android:name
+		ADDED from AndroidManifest.xml:109:25
+action#android.intent.action.USER_PRESENT
+ADDED from AndroidManifest.xml:110:17
+	android:name
+		ADDED from AndroidManifest.xml:110:25
+receiver#com.parse.ParsePushBroadcastReceiver
+ADDED from AndroidManifest.xml:113:9
+	android:exported
+		ADDED from AndroidManifest.xml:114:19
+	android:name
+		ADDED from AndroidManifest.xml:113:19
+intent-filter#com.parse.push.intent.DELETE+com.parse.push.intent.OPEN+com.parse.push.intent.RECEIVE
+ADDED from AndroidManifest.xml:115:13
+action#com.parse.push.intent.RECEIVE
+ADDED from AndroidManifest.xml:116:17
+	android:name
+		ADDED from AndroidManifest.xml:116:25
+action#com.parse.push.intent.DELETE
+ADDED from AndroidManifest.xml:117:17
+	android:name
+		ADDED from AndroidManifest.xml:117:25
+action#com.parse.push.intent.OPEN
+ADDED from AndroidManifest.xml:118:17
+	android:name
+		ADDED from AndroidManifest.xml:118:25
+receiver#com.parse.GcmBroadcastReceiver
+ADDED from AndroidManifest.xml:121:9
+	android:permission
+		ADDED from AndroidManifest.xml:122:19
+	android:name
+		ADDED from AndroidManifest.xml:121:19
+intent-filter#com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION+com.rahul.vanished
+ADDED from AndroidManifest.xml:123:13
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from AndroidManifest.xml:124:17
+	android:name
+		ADDED from AndroidManifest.xml:124:25
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from AndroidManifest.xml:125:17
+	android:name
+		ADDED from AndroidManifest.xml:125:25
+category#com.rahul.vanished
+ADDED from AndroidManifest.xml:130:17
+	android:name
+		ADDED from AndroidManifest.xml:130:27

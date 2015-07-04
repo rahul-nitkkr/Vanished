@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Apple/Downloads/Ribbit 41/app/libs/Parse-1.9.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1b065010f3c9d441ede9078aca8eabcd1c81e647">
+        <dex dex="/Users/Apple/Downloads/Ribbit 41/app/build/intermediates/pre-dexed/debug/Parse-1.9.1-e25a5bb12270cd25fe7d594d87913532277c6243.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/Downloads/Ribbit 41/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.1.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="71a1c9453be81003c09c74773f8eb98b93344e22">
+        <dex dex="/Users/Apple/Downloads/Ribbit 41/app/build/intermediates/pre-dexed/debug/classes-84f908d852e6694bd8673b96c7dc33587611a83a.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/Downloads/Ribbit 41/app/libs/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/Apple/Downloads/Ribbit 41/app/build/intermediates/pre-dexed/debug/commons-io-2.4-767a1041b2697332dbf2d723a371cb2ac80790fa.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/Apple/Downloads/Ribbit 41/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-4056dac53d1aa9ce2e9baed2ca6f41679f27a763.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/Apple/Downloads/Ribbit 41/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-72999f7e9c3032022180fa63ecb847027deff450.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/Apple/Downloads/Ribbit 41/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-82cbc7192bc9b1c33f43b52adb71a8af4e44709e.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/Downloads/Ribbit 41/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/Apple/Downloads/Ribbit 41/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-d1eb5b0f3c9829c33aab291c63c69d67a5231948.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/Downloads/Ribbit 41/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/Apple/Downloads/Ribbit 41/app/build/intermediates/pre-dexed/debug/classes-a6e7db74eec509c82902067b110e9b035f743da7.jar" />
+    </item>
+    <item
+        jar="/Users/Apple/Downloads/Ribbit 41/app/libs/ParseFacebookUtilsV4-1.9.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f78e5603a5ecac14eaa34a763c9165444a681193">
+        <dex dex="/Users/Apple/Downloads/Ribbit 41/app/build/intermediates/pre-dexed/debug/ParseFacebookUtilsV4-1.9.1-74781a1ab9c5e8975b4854c045efb87692ca383d.jar" />
+    </item>
+
+</items>

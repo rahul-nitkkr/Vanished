@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.rahul.vanished.RecepientsActivity">
+
+    <item android:id="@+id/action_send"
+          android:title="SEND"
+          android:orderInCategory="100"
+          android:showAsAction="always"
+        android:icon="@drawable/ic_action_send_now"
+        android:visible="false"/>
+</menu>
+<!-- From: file:/Users/Apple/Downloads/Ribbit%2041/app/src/main/res/menu/menu_recepients.xml -->
